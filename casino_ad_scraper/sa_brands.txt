@@ -1,0 +1,53 @@
+# South African casino / betting brands: name | domain
+# The name is used to match ads; the domain is visited during --warmup to pick up retargeting pixels.
+# Domains are best-effort: check any that fail to load and correct them.
+Hollywoodbets | hollywoodbets.net
+Betway | betway.co.za
+Sportingbet | sportingbet.co.za
+Supabets | supabets.co.za
+SunBet | sunbet.co.za
+Playabets | playabets.co.za
+Gbets | gbets.co.za
+World Sports Betting | wsb.co.za
+10bet | 10bet.co.za
+LottoStar | lottostar.co.za
+YesPlay | yesplay.bet
+Easybet | easybet.co.za
+Betshezi | betshezi.co.za
+TicTacBets | tictacbets.co.za
+Jabula Bets | jabulabets.co.za
+Zarbet | zarbet.co.za
+Bet.co.za | bet.co.za
+Marshalls World of Sport | marshalls.co.za
+Interbet | interbet.co.za
+BetXchange | betxchange.co.za
+Fafabet | fafabet.co.za
+Mzansibet | mzansibet.co.za
+Wanejo Bets | wanejobets.co.za
+Betfred | betfred.co.za
+Lulabet | lulabet.co.za
+Playbet | playbet.co.za
+Goldrush | goldrush.co.za
+PantherBet | pantherbet.co.za
+Saffaluck | saffaluck.co.za
+Betjets | betjets.co.za
+KingBets | kingbets.co.za
+Topbet | topbet.co.za
+Hollywoodbets Spina Zonke | hollywoodbets.net
+Springbok Casino | springbokcasino.co.za
+Yebo Casino | yebocasino.co.za
+Thunderbolt Casino | thunderboltcasino.com
+Punt Casino | puntcasino.com
+Lucky Fish | luckyfish.co.za
+Silversands Casino | silversandscasino.com
+Europa Casino | europacasino.com
+Casino Lab | casinolab.com
+Jackpot City | jackpotcity.co.za
+Tsogo Sun | tsogosun.com
+Sun International | suninternational.com
+Peermont / Emperors Palace | emperorspalace.com
+Montecasino | montecasino.co.za
+GrandWest | grandwest.co.za
+Sun City | suncity.co.za
+Galaxy Bingo | galaxybingo.co.za
+Ithuba National Lottery | nationallottery.co.za
