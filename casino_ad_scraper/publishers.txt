@@ -1,0 +1,13 @@
+# One publisher URL per line. Sports/betting/news sites tend to carry programmatic casino ads.
+https://www.espn.com
+https://www.cbssports.com
+https://www.foxsports.com
+https://www.bleacherreport.com
+https://www.sportingnews.com
+https://www.yardbarker.com
+https://www.si.com
+https://www.covers.com
+https://www.actionnetwork.com
+https://www.oddsshark.com
+https://www.thelines.com
+https://www.legalsportsreport.com
